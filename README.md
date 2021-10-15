@@ -1,7 +1,9 @@
-拖拽选择demo
-1、原生js实现
-2、jquery-ui selectable实现
 # drag-select-demo
+# 拖拽选择demo
+
+## 1、原生js实现
+## 2、jquery-ui selectable实现
+
 
 > A Vue.js project
 
